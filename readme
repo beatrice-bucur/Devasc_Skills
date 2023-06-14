@@ -5,3 +5,13 @@ Task implementation => what is the way you have implemented this?
 Task troubleshooting => what were the problems encountered?
 Task verification => proof of the quality of the result 
 
+devasc@labvm:~$ git config --global user.name "Beatrice"
+devasc@labvm:~$ git config --global user.email "beatrice-daniela.bucur@education.lu"
+devasc@labvm:~$ git init
+Initialized empty Git repository in /home/devasc/.git/
+devasc@labvm:~$ git init Devasc_Skills
+Initialized empty Git repository in /home/devasc/Devasc_Skills/.git/
+devasc@labvm:~$ git remote add origin https://github.com/Devasc_Skills_YourInitials
+devasc@labvm:~$ git remote -v
+origin	https://github.com/Devasc_Skills_YourInitials (push)
+devasc@labvm:~$ 
